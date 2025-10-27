@@ -1,0 +1,19 @@
+{
+  "name": "web-chet",
+  "version": "1.0.0",
+  "description": "ChatGPT를 활용한 웹 채팅 프로그램",
+  "main": "server.js",
+  "scripts": {
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {},
+  "keywords": [
+    "chatgpt",
+    "chat",
+    "ai",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT"
+}
